@@ -120,6 +120,7 @@
     <Content Include="Connected Services\ServiceReference1\WebApplication2.ServiceReference1.HelloWorldResponse.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Content>
+    <Content Include="2019-p-tdi-j1.pdf" />
     <None Include="Connected Services\ServiceReference1\WebService1.disco" />
     <None Include="Connected Services\ServiceReference1\configuration91.svcinfo" />
     <None Include="Connected Services\ServiceReference1\configuration.svcinfo" />
